@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/box-office-app%20/static/css/main.b2586571.css",
-    "main.js": "/box-office-app%20/static/js/main.d041a065.js",
-    "static/js/787.7290e99f.chunk.js": "/box-office-app%20/static/js/787.7290e99f.chunk.js",
-    "index.html": "/box-office-app%20/index.html",
-    "main.b2586571.css.map": "/box-office-app%20/static/css/main.b2586571.css.map",
-    "main.d041a065.js.map": "/box-office-app%20/static/js/main.d041a065.js.map",
-    "787.7290e99f.chunk.js.map": "/box-office-app%20/static/js/787.7290e99f.chunk.js.map"
+    "main.css": "/box-office-app/static/css/main.b2586571.css",
+    "main.js": "/box-office-app/static/js/main.a40cf0fe.js",
+    "static/js/787.7290e99f.chunk.js": "/box-office-app/static/js/787.7290e99f.chunk.js",
+    "index.html": "/box-office-app/index.html",
+    "main.b2586571.css.map": "/box-office-app/static/css/main.b2586571.css.map",
+    "main.a40cf0fe.js.map": "/box-office-app/static/js/main.a40cf0fe.js.map",
+    "787.7290e99f.chunk.js.map": "/box-office-app/static/js/787.7290e99f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.d041a065.js"
+    "static/js/main.a40cf0fe.js"
   ]
 }
