@@ -2,12 +2,12 @@ import React from 'react';
 import Navs from './Navs';
 import Title from './Title';
 
-const MainPagelayout = ({ children }) => {
+const MainPageLayout = ({ children }) => {
   return (
     <div>
       <Title
         title="Box Office"
-        subTitle="Are you looking for a movie or an actor?"
+        subtitle="Are you looking for a movie or an actor?"
       />
       <Navs />
 
@@ -16,4 +16,4 @@ const MainPagelayout = ({ children }) => {
   );
 };
 
-export default MainPagelayout;
+export default MainPageLayout;
