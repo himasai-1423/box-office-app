@@ -1,3 +1,6 @@
+# [Check out the project here](https://himasai-1423.github.io/box-office-app/#/)
+Click on the above link to check the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
